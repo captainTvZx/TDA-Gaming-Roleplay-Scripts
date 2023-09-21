@@ -1,7 +1,0 @@
-<meta>
-	<script src="speedometer_client.lua" type="client"/>
-	<file src="img/speedometer.png" />
-	<file src="img/arrow.png" />
-	<file src="img/nitrous.png" />
-	<export function="showPlayerSpeed" type="client"/>
-</meta>
