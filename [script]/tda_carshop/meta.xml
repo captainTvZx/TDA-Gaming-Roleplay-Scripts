@@ -1,0 +1,34 @@
+<meta>
+	<min_mta_version client="1.3.2" />
+	<script src="carshop_client.lua" type="client"/>
+	<script src="carshop_server.lua" type="server"/>
+	<file src="font/font.ttf"/>
+	<file src="img/exit.png"/>
+	<file src="img/lamborgihini.png"/>
+	<file src="img/ferrari.png"/>
+	<file src="img/maserati.png"/>
+	<file src="img/wmotors.png"/>
+	<file src="img/porsche.png"/>
+	<file src="img/koenigsegg.png"/>
+	<file src="img/dodge.png"/>
+	<file src="img/corvette.png"/>
+	<file src="img/mitsubishi.png"/>
+	<file src="img/mercedes.png"/>
+	<file src="img/bmw.png"/>
+	<file src="img/volkswagen.png"/>
+	<file src="img/cadillac.png"/>
+	<file src="img/nissan.png"/>
+	<file src="img/mazda.png"/>
+	<file src="img/lexus.png"/>
+	<file src="img/seat.png"/>
+	<file src="img/mclaren.png"/>
+	<file src="img/pagani.png"/>
+	<file src="img/bugatti.png"/>
+	<file src="img/ford.png"/>
+	<file src="img/subaru.png"/>
+	<file src="img/chevrolet.png"/>
+	<file src="img/mini.png"/>
+	<file src="img/audi.png"/>
+	<file src="img/gmc.png"/>
+	<file src="img/plymounth.png"/>
+</meta>
