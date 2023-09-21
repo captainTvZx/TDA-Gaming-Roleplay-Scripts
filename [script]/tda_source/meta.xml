@@ -1,0 +1,45 @@
+<meta>
+	-----------SOURCE-----------
+	<script src="source/dxGui.lua" type="client"/>
+	<script src="source/notification.lua" type="client"/>
+	<script src="source/c_main.lua" type="client" />
+	<script src="source/c_helper_functions.lua" type="client" />
+	<script src="source/c_exported_functions.lua" type="client" />
+	-----------SOURCE-----------
+
+	-----------IMAGES-----------
+	<file src="img/error.png" />
+	<file src="img/succes.png" />
+	<file src="img/warn.png" />
+	<file src="img/colorwheel.png" />
+	-----------IMAGES-----------
+
+	-----------SOUND-----------
+	<file src="sound/submit-hover.mp3" />
+	-----------SOUND-----------
+
+	-----------FONT-----------
+	<file src="font/segoeui.ttf" />
+	-----------FONT-----------
+
+	-----------SHADERS-----------
+	<file src="shaders/fxBlurH.fx" />
+	<file src="shaders/fxBlurV.fx" />
+	-----------SHADERS-----------
+	<export function="dxDrawColorPicker" type="client"/>
+	<export function="dxDrawEdit" type="client"/>
+	<export function="dxDrawButton" type="client"/>
+	<export function="dxDrawGridList" type="client"/>
+	<export function="dxDrawShadowText" type="client"/>
+	<export function="dxDraw3DText" type="client" />
+	<export function="drawCircle" type="client"/>
+	<export function="outputNotification" type="client"/>
+	<export function="createGuassianBlur" type="client"/>
+	<export function="destroyBlurBox" type="client"/>
+	<export function="setBlurBoxPosition" type="client"/>
+	<export function="setBlurBoxColor" type="client"/>
+	<export function="setBlurBoxSize" type="client"/>
+	<export function="setBlurBoxEnabled" type="client"/>
+	<export function="setBlurIntensity" type="client"/>
+	<export function="setScreenResolutionMultiplier" type="client"/>
+</meta>
