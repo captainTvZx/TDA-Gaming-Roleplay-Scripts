@@ -1,0 +1,91 @@
+﻿<meta>
+	-----------IMAGES-----------
+	<file src="img/logo.png" />
+	<file src="img/loading.png" />
+	<file src="img/error.png" />
+	<file src="img/succes.png" />
+	<file src="img/warn.png" />
+	<file src="img/exit.png" />
+	<file src="img/snipercross.png" />
+	<file src="img/snipercross_bg.png" />
+	<file src="img/box.png" />
+	<file src="img/weapons/knife.png" />
+	<file src="img/weapons/colt.png" />
+	<file src="img/weapons/silenced.png" />
+	<file src="img/weapons/deagle.png" />
+	<file src="img/weapons/shotgun.png" />
+	<file src="img/weapons/sawnoff.png" />
+	<file src="img/weapons/spaz.png" />
+	<file src="img/weapons/uzi.png" />
+	<file src="img/weapons/mp5.png" />
+	<file src="img/weapons/tec9.png" />
+	<file src="img/weapons/ak47.png" />
+	<file src="img/weapons/m4.png" />
+	<file src="img/weapons/rifle.png" />
+	<file src="img/weapons/sniper.png" />
+	<file src="img/weapons/rocket.png" />
+	<file src="img/weapons/rockeths.png" />
+	<file src="img/weapons/flame.png" />
+	<file src="img/weapons/minigun.png" />
+	-----------IMAGES-----------
+
+	-----------SOUND-----------
+	<file src="sound/submit-hover.mp3" />
+	<file src="sound/deagle.wav" />
+	<file src="sound/silent.wav" />
+	<file src="sound/pistol.wav" />
+	<file src="sound/sawn.wav" />
+	<file src="sound/shotgun.wav" />
+	<file src="sound/spas.wav" />
+	<file src="sound/mp5.wav" />
+	<file src="sound/tec9.wav" />
+	<file src="sound/uzi.wav" />
+	<file src="sound/ak47.wav" />
+	<file src="sound/m4a1.wav" />
+	<file src="sound/rifle.wav" />
+	<file src="sound/sniper.wav" />
+	<file src="sound/rpg.wav" />
+	<file src="sound/minigun.wav" />
+	-----------SOUND-----------
+
+	<script src="weaponshop_client.lua" type="client"/>
+	<script src="weaponshop_server.lua" type="server"/>
+	<script src="source/circle.lua" type="client"/>
+	
+	<file src="models/335.dff" />
+	<file src="models/335.txd" />
+	<file src="models/346.dff" />
+	<file src="models/346.txd" />
+	<file src="models/347.dff" />
+	<file src="models/347.txd" />
+	<file src="models/348.dff" />
+	<file src="models/348.txd" />
+	<file src="models/349.dff" />
+	<file src="models/349.txd" />
+	<file src="models/350.dff" />
+	<file src="models/350.txd" />
+	<file src="models/351.dff" />
+	<file src="models/351.txd" />
+	<file src="models/352.dff" />
+	<file src="models/352.txd" />
+	<file src="models/353.dff" />
+	<file src="models/353.txd" />
+	<file src="models/355.dff" />
+	<file src="models/355.txd" />
+	<file src="models/356.dff" />
+	<file src="models/356.txd" />
+	<file src="models/357.dff" />
+	<file src="models/357.txd" />
+	<file src="models/358.dff" />
+	<file src="models/358.txd" />
+	<file src="models/359.dff" />
+	<file src="models/359.txd" />
+	<file src="models/360.dff" />
+	<file src="models/360.txd" />
+	<file src="models/361.dff" />
+	<file src="models/361.txd" />
+	<file src="models/362.dff" />
+	<file src="models/362.txd" />
+	<file src="models/372.dff" />
+	<file src="models/372.txd" />
+</meta>
