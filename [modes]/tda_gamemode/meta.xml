@@ -1,0 +1,4 @@
+<meta>
+	<script src="gamemode_server.lua" type="server" />
+	<map src="Reallife.map" />
+</meta>
