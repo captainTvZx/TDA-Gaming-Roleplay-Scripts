@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+    <object id="object (int3int_carupg_int) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="14776" doublesided="false" scale="1" dimension="1" posX="3140.2002" posY="-1997.9004" posZ="56.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vgshseing28) (1)" breakable="true" interior="1" collisions="true" alpha="255" model="8558" doublesided="false" scale="1" dimension="1" posX="3142.1006" posY="-2019" posZ="49.05" rotX="0" rotY="0" rotZ="270"></object>
+</map>
