@@ -1,0 +1,23 @@
+<meta>
+	<min_mta_version client="1.3.2" />
+	<script src="level_client.lua" type="client" />
+	<script src="level_server.lua" type="server" />
+	<file src="texture.fx" />
+	<file src="img/logo.png" />
+	<file src="sound/complate1.mp3" />
+	<file src="sound/complate2.mp3" />
+	<file src="sound/complate3.mp3" />
+	<file src="sound/complate4.mp3" />
+	<file src="sound/complate5.mp3" />
+	<file src="sound/complate6.mp3" />
+	<file src="sound/complate7.mp3" />
+	<file src="sound/complate8.mp3" />
+	<file src="sound/complate9.mp3" />
+	<file src="sound/complate10.mp3" />
+	<file src="sound/complate11.mp3" />
+	<file src="sound/complate12.mp3" />
+	<export function="givePlayerExp" type="server"/>
+	<export function="controlPlayerExp" type="server"/>
+	<export function="getPlayerData" type="server"/>
+	<export function="showPlayerLevel" type="client"/>
+</meta>

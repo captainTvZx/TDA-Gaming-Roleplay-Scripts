@@ -1,0 +1,18 @@
+<meta>
+	<script src="radio_client.lua" type="client" />
+	<script src="source/circle.lua" type="client" />
+	<file src="music.mp3" />
+	<file src="img/logo.png" />
+	<file src="img/radio_1.png" />
+	<file src="img/radio_2.png" />
+	<file src="img/radio_3.png" />
+	<file src="img/radio_4.png" />
+	<file src="img/radio_5.png" />
+	<file src="img/radio_6.png" />
+	<file src="img/radio_7.png" />
+	<file src="img/radio_8.png" />
+	<file src="img/circle.png" />
+	<file src="img/radio_on.png" />
+	<file src="img/radio_off.png" />
+	<export function="showPlayerRadio" type="client"/>
+</meta>

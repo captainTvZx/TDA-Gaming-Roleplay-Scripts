@@ -1,0 +1,15 @@
+<meta>
+	<min_mta_version client="1.3.2" />
+	<script src="phone_client.lua" type="client"/>
+	<script src="phone_server.lua" type="server"/>
+	<file src="img/phone.png"/>
+	<file src="img/vehicle.png"/>
+	<file src="img/localication.png"/>
+	<file src="img/message.png"/>
+	<file src="img/directory.png"/>
+	<file src="img/user.png"/>
+	<file src="img/team.png"/>
+	<file src="img/lock.png"/>
+	<file src="img/destroy.png"/>
+	<export function="showPlayerPhone" type="client"/>
+</meta>

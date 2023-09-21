@@ -1,0 +1,11 @@
+<database>
+    <accounts>
+        <user Username="aha" Password="2323" Serial="A032C7140D81300CC76F897CBC032284" PlayerName="TDA//captainTvZ"></user>
+        <user Username="fr" Password="2323" Serial="A032C7140D81300CC76F897CBC032284" PlayerName="TDA//captainTvZ"></user>
+        <user Username="enes" Password="2323" Serial="87803C98CBBABB64B311A319F6E785B3" PlayerName="TDA//MaccTvZ"></user>
+        <user Username="mac" Password="2323" Serial="87803C98CBBABB64B311A319F6E785B3" PlayerName="TDA//MaCcTvZ"></user>
+        <user Username="testaccount" Password="2323" Serial="A032C7140D81300CC76F897CBC032284" PlayerName="TDA//captainTvZ"></user>
+        <user Username="xRow" Password="parfavorcx" Serial="C5A3AC366E4FD871EE164DB98D5CD664" PlayerName="xRow"></user>
+        <user Username="captainTvZ" Password="2323" Serial="A032C7140D81300CC76F897CBC032284" PlayerName="TDA//captainTvZ"></user>
+    </accounts>
+</database>
